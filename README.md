@@ -1,5 +1,5 @@
 # Database-MySQL
-Everything related to MySQL will be posted next week!
+Everything related to MySQL will be posted this month!
 
 New test projects will appear on my profile soon.
 
