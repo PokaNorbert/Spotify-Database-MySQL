@@ -1,5 +1,5 @@
 # Database-MySQL
-New test projects will appear on my profile soon (August).
+New test projects will appear on my profile soon (September).
 
 ! there are several projects under consideration to be posted on GitHub !
  
