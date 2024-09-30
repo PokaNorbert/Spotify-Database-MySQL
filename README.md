@@ -1,5 +1,5 @@
 # Database-MySQL
-New test projects will appear on my profile soon (September).
+Soon all will be posted (period: September-October-November + study period for ISTQB and recaps: August-October) 
 
 ! there are several projects under consideration to be posted on GitHub !
  
