@@ -1,5 +1,5 @@
 # Database-MySQL
-The ISTQB is taken from December 16, 2024. New posts or updates will appear next year.
+The ISTQB is taken from December 16, 2024. I'll be back at the beginning of February. For the next few weeks, I'll prioritize the college exam session.
 
 ! there are several projects under consideration to be posted on GitHub !
  
